@@ -62,3 +62,11 @@ Remind yourself why you chose to make this career switch.
 
 Make a plan first thing. Remember to do the basic necessities. 
 
+------
+
+## lecture notes
+
+agile work process
+
+plan and write down everything about your plan when starting a project
+
